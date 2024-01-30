@@ -1,5 +1,5 @@
 ## Toxic Comment Classifier
-The "Toxic Comment Classifier" is a data science project aimed at developing a robust system for identifying and categorizing toxic comments in online discussions. Leveraging machine learning and natural language processing (NLP) techniques, this project provides a comprehensive solution for mitigating harmful content in online communities.
+The "Toxic Comment Classifier" is a data science project aimed at developing a robust system for identifying and categorizing toxic comments in online discussions. Leveraging machine learning and natural language processing (NLP) techniques, this project provides a comprehensive solution for mitigating harmful content in online communities. <br>
 
 ## Key Process
 
